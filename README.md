@@ -1,11 +1,21 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# 专业台球大师 (Pro Billiards Master)
 
-  <h1>Built with AI Studio</h2>
+一款基于 HTML5 Canvas 和原生 JavaScript 开发的高级台球模拟游戏。
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 特性
+- **真实物理模拟**：精准的球体碰撞、摩擦力及反弹逻辑。
+- **全平台适配**：完美适配 PC 端鼠标操作及移动端触控，支持竖屏模式。
+- **优雅 UI 设计**：采用 Tailwind CSS 构建，支持深色模式切换。
+- **直观交互**：长按蓄力瞄准，简单易上手的击球体验。
+- **双人对战**：实时记分系统与回合切换逻辑。
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 运行环境
+- 现代浏览器 (Chrome, Safari, Edge, Firefox)
+- 无需任何框架，仅需单个 HTML 文件即可运行。
 
-</div>
+## 快速开始
+直接在浏览器中打开 `index.html` 即可开始游戏。
+
+## 开源协议
+本项目采用 [MIT License](LICENSE) 协议开源。
